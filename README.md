@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Farhan106
+- 👀 I’m interested in Web Development, Machine Learning and Languages.
+- 🌱 I’m currently learning the MERN Stack.
+- 📫 How to reach me: w.farhanshk@gmail.com
+- ⚡ Fun fact: I can speak 4 languages as of right now: Urdu, Punjabi, English and Japanese.
